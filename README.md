@@ -377,6 +377,9 @@
 
 > - https://maps.app.goo.gl/R8espk6ffkm6jU3MA
 
+> - [![동영상 확인하기](https://img.icons8.com/color/96/google-maps-new.png)](https://maps.app.goo.gl/R8espk6ffkm6jU3MA)
+
+*위 이미지를 클릭하시면 동영상을 확인하실 수 있습니다.*
 
 체코 프라하의 더 줄리어스 프라하(The Julius Prague)는 최근에 오픈한 최고급 레지던스형 호텔로, 압도적으로 높은 평점(구글 평점 4.8 이상)과 세련된 인테리어로 한국인 여행객들에게 엄청난 찬사를 받는 곳입니다.
 
